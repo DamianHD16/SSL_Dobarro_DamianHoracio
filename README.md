@@ -1,2 +1,2 @@
 # SSL_Dobarro_DamianHoracio
-Cursada de Sintaxis y Semántica de los Lenguajes - 2025
+Este es mi repositorio para la cursada de Sintaxis y Semántica de Lenguajes
